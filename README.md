@@ -23,7 +23,7 @@ Skizzenblok is a german word and translates to "sketch pad" in English. This app
 
 -Add room functionality to the app, so that users can collaborate on sketches Privately.
 
-If you feel like you have any contributions that can improve ***Skizzenblok ***kindly make a Pull Request or an Issue.
+If you feel like you have any contributions that can improve ***Skizzenblok*** kindly make a Pull Request or an Issue.
 
 **Usage**
 
