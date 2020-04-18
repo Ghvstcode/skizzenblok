@@ -27,6 +27,6 @@ If you feel like you have any contributions that can improve ***Skizzenblok*** 
 
 **Usage**
 
- you can clone this repository to have it on your local machine, run npm init to install all dependencies, **npm run dev** to start the development server and **npm start** to start the production server.
+ you can clone this repository to have it on your local machine, run **npm install** to install all dependencies, **npm run dev** to start the development server and **npm start** to start the production server.
 
 Cheers, GhvstCode.
